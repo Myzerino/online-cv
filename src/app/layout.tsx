@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: "Márcio Sousa - Full-stack Developer",
     description: "A personal online CV built with Next.js and Tailwind CSS.",
     type: "website",
-    locale: "en_US",
+    locale: "pt_PT",
   },
   twitter: {
     card: "summary_large_image",
